@@ -19,10 +19,10 @@ class ViewController: UIViewController {
                             ["2 + 3 = 5", "True"],
                             ["1 - 1 = -1", "False"]]
     
-    questionBank[2][1]
+    //questionBank[2][1]
     
    // questionBank[1][0]
-   // var questionNumber = 0
+    var questionNumber = 0
     
   
     override func viewDidLoad() {
@@ -55,5 +55,5 @@ class ViewController: UIViewController {
     
     
     
-}
+
 
